@@ -1,0 +1,8 @@
+[
+  {
+    "eventname": "string",
+    "ticketsforsale": null,
+    "username": "string",
+    "password": "string"
+  }
+]
